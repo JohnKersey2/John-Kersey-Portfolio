@@ -5,16 +5,7 @@ export default function Home() {
     <div>
       <h1>Home Page</h1>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus.
+      Hi there, I'm John! I just graduated Georgia Tech's Full Stack Web Developer Bootcamp. After 11 years working as a personal and executive assistant, I'm ready for a new long term career. I hope it can be with your company! Communication, professionalism, and the ability to use Google are just a few skills I bring. In my freetime, I play D&D twice a week, write music, and volunteer for a wide variety of LGBTQ+ causes.
       </p>
     </div>
   );
