@@ -1,0 +1,20 @@
+:root {
+    --darkSteel: #43464b; 
+    --steel: #59595d;
+    --darkHunter: #1C5E24;
+    --lightHunter: #0db621;
+}
+
+* {
+    color: var(--lightHunter);
+    background: var(--steel);
+    background: linear-gradient(90deg, var(--steel) 0%, var(--darkSteel) 50%);
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+body {
+    background: var(--steel);
+    background: linear-gradient(90deg, var(--steel) 0%, var(--darkSteel) 50%);
+}
+
