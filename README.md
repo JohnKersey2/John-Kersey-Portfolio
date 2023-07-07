@@ -4,6 +4,10 @@
 
 This is an assignment to practice React concepts. It is a work in progress portfolio.
 
+## Deployed Project
+
+[Portfolio](https://johnkersey2.github.io/John-Kersey-Portfolio)
+
 ## Requirements
 
 Header with navigation and "About me" "Portfolio" "Contact" and "Resume"
