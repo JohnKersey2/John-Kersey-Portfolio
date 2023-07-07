@@ -5,9 +5,9 @@ const styles = {
   // navTab: {
   //   background: 'green',
   // },
-  // navli: {
-  //   color: 'red'
-  // }
+  navli: {
+    color: '#0db621'
+  }
 }
 
 function NavTabs({ currentPage, handlePageChange }) {

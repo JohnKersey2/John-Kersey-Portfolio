@@ -18,3 +18,6 @@ body {
     background: linear-gradient(90deg, var(--steel) 0%, var(--darkSteel) 50%);
 }
 
+a {
+    color: var(--lightHunter);
+}
